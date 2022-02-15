@@ -15,4 +15,4 @@ Start Project
   django-admin startproject UserApi
 
 Run the project:
-  python mange.py runserver 8080
+  python manage.py runserver 8080
